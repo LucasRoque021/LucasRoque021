@@ -1,6 +1,8 @@
 ### Olá! Seja bem-vindo ao meu github 😄
 ##
 
+- 🌎 Rio de Janeiro, Brasil
+- 📈 Recoder
 - 📚 Dev full stack em desenvolvimento
 
 <div align="center">
